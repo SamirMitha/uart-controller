@@ -1,0 +1,12 @@
+# Simulation build directory
+sim_build/
+
+# Python cache directories
+__pycache__/
+*.pyc
+
+# Simulation results and logs
+results.xml
+test_log*.txt
+*.vcd
+dump.vcd
